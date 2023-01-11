@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @earths-voluble
-- 👀 I’m interested in ... "Python."
-- 🌱 I’m currently learning ... "Python.'
+- 👀 I’m interested in ... "Swift."
+- 🌱 I’m currently learning ... "Swift.'
 - 💞️ I’m looking to collaborate on ... "Nothing"
 - 📫 How to reach me ... 
 
